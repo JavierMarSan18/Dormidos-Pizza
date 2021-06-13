@@ -1,0 +1,24 @@
+C:\Users\LabPro\Desktop\Dormidos-Pizza\Dormidos-Pizza\bin\Debug\Dormidos-Pizza.exe.config
+C:\Users\LabPro\Desktop\Dormidos-Pizza\Dormidos-Pizza\bin\Debug\Dormidos-Pizza.exe
+C:\Users\LabPro\Desktop\Dormidos-Pizza\Dormidos-Pizza\bin\Debug\Dormidos-Pizza.pdb
+C:\Users\LabPro\Desktop\Dormidos-Pizza\Dormidos-Pizza\obj\Debug\Dormidos-Pizza.csproj.AssemblyReference.cache
+C:\Users\LabPro\Desktop\Dormidos-Pizza\Dormidos-Pizza\obj\Debug\Dormidos_Pizza.Form1.resources
+C:\Users\LabPro\Desktop\Dormidos-Pizza\Dormidos-Pizza\obj\Debug\Dormidos_Pizza.Properties.Resources.resources
+C:\Users\LabPro\Desktop\Dormidos-Pizza\Dormidos-Pizza\obj\Debug\Dormidos-Pizza.csproj.GenerateResource.cache
+C:\Users\LabPro\Desktop\Dormidos-Pizza\Dormidos-Pizza\obj\Debug\Dormidos-Pizza.csproj.CoreCompileInputs.cache
+C:\Users\LabPro\Desktop\Dormidos-Pizza\Dormidos-Pizza\obj\Debug\Dormidos-Pizza.exe
+C:\Users\LabPro\Desktop\Dormidos-Pizza\Dormidos-Pizza\obj\Debug\Dormidos-Pizza.pdb
+C:\Users\LabPro\Desktop\Dormidos-Pizza\Dormidos-Pizza\obj\Debug\Dormidos_Pizza.Admin.resources
+C:\Users\LabPro\Desktop\Dormidos-Pizza\Dormidos-Pizza\obj\Debug\Dormidos_Pizza.Ordenes.resources
+C:\Users\LabPro\Desktop\Examen Final Programación I\Dormidos-Pizza\obj\Debug\Dormidos-Pizza.csproj.AssemblyReference.cache
+C:\Users\LabPro\Desktop\Examen Final Programación I\Dormidos-Pizza\obj\Debug\Dormidos_Pizza.Admin.resources
+C:\Users\LabPro\Desktop\Examen Final Programación I\Dormidos-Pizza\obj\Debug\Dormidos_Pizza.Properties.Resources.resources
+C:\Users\LabPro\Desktop\Examen Final Programación I\Dormidos-Pizza\obj\Debug\Dormidos_Pizza.Ordenes.resources
+C:\Users\LabPro\Desktop\Examen Final Programación I\Dormidos-Pizza\obj\Debug\Dormidos-Pizza.csproj.GenerateResource.cache
+C:\Users\LabPro\Desktop\Examen Final Programación I\Dormidos-Pizza\obj\Debug\Dormidos-Pizza.csproj.CoreCompileInputs.cache
+C:\Users\LabPro\Desktop\Examen Final Programación I\Dormidos-Pizza\obj\Debug\Dormidos-Pizza.exe
+C:\Users\LabPro\Desktop\Examen Final Programación I\Dormidos-Pizza\obj\Debug\Dormidos-Pizza.pdb
+C:\Users\LabPro\Desktop\Examen Final Programación I\Dormidos-Pizza\bin\Debug\Dormidos-Pizza.exe.config
+C:\Users\LabPro\Desktop\Examen Final Programación I\Dormidos-Pizza\bin\Debug\Dormidos-Pizza.exe
+C:\Users\LabPro\Desktop\Examen Final Programación I\Dormidos-Pizza\bin\Debug\Dormidos-Pizza.pdb
+C:\Users\LabPro\Desktop\Examen Final Programación I\Dormidos-Pizza\obj\Debug\Dormidos_Pizza.DPizzaForm.resources
